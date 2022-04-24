@@ -27,7 +27,7 @@ Users are able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/)
+- [Solution URL](https://www.frontendmentor.io/solutions/advice-generator-app-with-react-ByW4lbXS9)
 - [Live Site URL](https://dyios.github.io/advice-generator/)
 
 ## Built with
